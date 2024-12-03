@@ -37,7 +37,7 @@ const Main = () => {
           
           {/* Updated Image Size */}
           <img
-            src="src\assets\_DSC0424-1-min(1).png" 
+            src="src\assets\_DSC0424-1.jpg" 
             alt="Ranu Kumar"
             className="w-48 h-48 rounded-full object-cover mb-6 border-4 border-white shadow-lg" // Changed to 48x48 for a larger square image
           />
