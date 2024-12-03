@@ -44,7 +44,7 @@ const Contact = () => {
 
       {/* Contact Form */}
       <form 
-        action="https://getform.io/f/714ca934-5893-4408-9b02-3b92d6ac8139" 
+        action="https://getform.io/f/bqoovvwb" 
         method='POST' 
         encType='multipart/form-data'
       >
