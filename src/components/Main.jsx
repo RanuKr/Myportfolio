@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { FaLinkedin, FaGithub, FaPhone, FaEnvelope } from "react-icons/fa";
@@ -36,7 +37,7 @@ const Main = () => {
           
           {/* Updated Image Size */}
           <img
-            src="src/assets/_DSC0424-1.jpg" 
+            src="src\assets\_DSC0424-1-min(1).png" 
             alt="Ranu Kumar"
             className="w-48 h-48 rounded-full object-cover mb-6 border-4 border-white shadow-lg" // Changed to 48x48 for a larger square image
           />
